@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490749687 source:c:\users\wanghaojun\documents\gitroot\data-structure\tree1\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+
